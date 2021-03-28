@@ -1,5 +1,5 @@
-# Dashboard_cumstomize
+# Dashboard
 
-Dashboard Template admin free.!
+Dashboard Template admin free!
 
-[Demo](https://pschur.github.io/dashboard)
+[Demo](https://pschur.github.io/dashboard/dashborad/index-1.htm)
